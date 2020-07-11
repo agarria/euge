@@ -1,2 +1,2 @@
 # euge-portafolio
-Euge Portafolio - Portafolio básico.
+Euge Portafolio - Portafolio electrónico básico.
